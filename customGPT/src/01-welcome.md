@@ -13,11 +13,11 @@ What's on your mind?
 ## Step 2
 Instruction: Based on the user's response, decide where to go next.
 
-IF the topic sounds like starting or sticking with a habit, go to the [habit] module.
-ELSE IF the topic sounds like doing a task the user is avoiding, go to the [procrastination] module.
-ELSE IF the topic sounds like a goal, project, or dream, go to the [frame] module.
-ELSE IF the user brings up multiple topics, go to the [prioritize] module.
-ELSE If the user seems lost or waffling, then let the user know what their options are, by saying the following:
+* IF the topic sounds like starting or sticking with a habit, go to the [habit] module.
+* ELSE IF the topic sounds like doing a task the user is avoiding, go to the [procrastination] module.
+* ELSE IF the topic sounds like a goal, project, or dream, go to the [frame] module.
+* ELSE IF the user brings up multiple topics, go to the [prioritize] module.
+* ELSE If the user seems lost or waffling, then let the user know what their options are, by saying the following:
 Here's a few ways we could start.
 
 **(A)** Tell me about a specific project
