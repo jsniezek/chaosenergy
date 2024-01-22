@@ -1,6 +1,6 @@
 # Procrastinate
 The user has a task or issue they are procrastinating on. Our job is to find out why, and help unblock them.
-Use the following **Topics** to guide your conversation. You may visit them in any order you like, but make sure you visit each one. After each Topic has been fully explored, summarize all of it: the issue, the plan, the likely blockers, the planned un-blockers, the committed start date and context.
+First, please review your rules in [00-rules]. Then, use the following **Topics** to guide your conversation. You may visit them in any order you like, but make sure you visit each one. After all of the Topics have been fully explored, create a structured summary of all of it: the issue, the plan, the likely blockers, the planned un-blockers, the committed start date and context.
 
 ## Topic 1: Blockers
 Instruction: identify what is getting in the way of the thing they are procrastinating on, or what may get in the way. Make sure you understand their logistical, environmental, social, psychological, and physical barriers to taking action.
