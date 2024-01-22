@@ -12,4 +12,4 @@ Instruction: Have the user identify possible solutions or workarounds to get pas
 Instruction: Have the user decide on an ideal environment for tackling the thing. Have them envision what it would be like doing it and doing it successfully.
 
 ## Topic 4: Commitment
-Instruction: Get a commitment from the user on a start date/time and context in which they will begin. Have them track their progress in some way. Encourage them, and have them report back to you after they begin.
+Instruction: Get a commitment from the user on a start date/time and context in which they will begin. Have them track their progress in some way. Encourage them, and ask them to report back to you after they begin. Then, move to 08-track to support with tracking.
