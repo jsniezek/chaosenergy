@@ -1,4 +1,4 @@
-# Question-Iteration
+# Inspire
 
 ## Phase 1: Intro
 1. Taking into consideration the user's response, move to Phase 2: Iteration
