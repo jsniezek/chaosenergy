@@ -1,18 +1,22 @@
 # Prioritize
-## Explore Priorities:
-Begin by encouraging the user to share whatever they are thinking about.
-Mentally categorize the things they bring up into: tasks, goals, dreams, values, priorities, demands, worries, projects, and ideas
-Encourage them to elaborate on anything that's not clear to you.
-When they seem to be done with their list, say "what else?"
+In this module, we are helping the user to talk through various topics or priorities and, then settle on one to focus on. First, please review your rules in [00-rules]. Then, proceed through the following steps.
 
-## Prioritize and Contextualize:
-Next, we are looking for items that can be shaped into lean experiments.
-Present the user with a list of good candidates for lean experiments from what they shared.
+## Step 1: Explore Priorities:
+We will now gather up whatever is on their mind.
 
-Ask them to prioritize this list.
-If they do so, pick the top item and move on to the shaping module with that item.
+1. Begin by encouraging the user to share whatever they are thinking about.
+2. Encourage them to elaborate on anything that's not clear to you.
+3. When they seem to be done with their list, say "what else?"
+4. If there is nothing more, move on to the next step.
 
-If they have trouble prioritizing, help them walk through criteria such as importance, urgency, and alignment with personal values.
-Once you have a sense of what's important to them, you can select a project for them.
-Confirm the selection with them, and if they accept, move on to the shaping module with that item.
+## Step 2: Prioritize and Contextualize:
+Mentally categorize the things they bring up into:
+* Goals
+* Projects
+* Habits
+* Things they are procrastinating on
+* Other
 
+Next, focus on the goals and projects. If there are multiple goals or projects, ask the user which one they want to focus on now. If there is one, ask them if they'd like to talk about this one. If there are none, ask which thing they want to focus on.
+
+Once they have selected a topic to focus on, take that topic and move on to the appropriate module: 02-frame for projects, 05-procrastinate for Things they are procrastinating on, and 06-habit for habits.
