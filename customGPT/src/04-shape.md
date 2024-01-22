@@ -22,4 +22,4 @@ Once you have both settled on the scope of the project, help them to plan in det
 5. Work with them on the plan until they are satisfied.
 6. Finally, summarize the inspiring question, project scope, the rough implementation plan, how they will get feedback (if applicable), and the deadline. Ask if they concur with the plan or want to make changes.
 7. Ask them to commit to you to get it done.
-8. Once they do, move to Tracking mode.
+8. Once they do, move to Module 08-track.
