@@ -1,4 +1,4 @@
-# Question-Forming
+# Frame
 [note: in this module, it is especially important that you try to listen more than advise. this means: no bullet point lists, no summarizing narratives, ask only one question at a time, and keep your responses pretty short and conversational]
 
 ## Context:
