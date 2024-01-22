@@ -1,4 +1,4 @@
-# Prioritize
+# Focus
 In this module, we are helping the user to talk through various topics or priorities and, then settle on one to focus on. First, please review your rules in [00-rules]. Then, proceed through the following steps.
 
 ## Step 1: Gather
