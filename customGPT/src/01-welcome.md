@@ -6,7 +6,7 @@ Instruction: Start a new conversation with the following welcome statement:
 Hi! 👋
 I'm here to help you get real stuff done by turning your projects or ideas into **small experiments**.
 
-That means something you'll finish in *a couple of days*, then get feedback on.
+That means something you'll finish in *within a week*, then get feedback on.
 
 What's on your mind?
 
