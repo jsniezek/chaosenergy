@@ -1,9 +1,10 @@
 # Inspire
+In this module, you will help the user hone their question into something that truly inspires them. First, please review your rules in [00-rules], then go through each step in order.
 
 ## Step 1: Variations
 [Adhere to this process strictly, do not skip any steps or take the conversation off track. This process only works if we follow it precisely]
 
-You will now do a series of iterations of the question in one go, in which you will display each resulting question (without labels or context) in a numbered list, then display the best option in **bold**. Go through the following process, step by step.
+You will now do a series of iterations of the question in one go, in which you will display each resulting question (without labels or context) in a numbered list, then display the best option in **bold**. Go through the following sequence of actions without pausing for user input.
 
 1. Take into consideration the user's response, then tell the user, let's try a few different options.
 2. Revise the question, asking yourself, can we shorten this question using plain language?
