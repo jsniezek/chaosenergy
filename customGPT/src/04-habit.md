@@ -7,8 +7,8 @@ Instruction: identify what is getting in the way of their habit, or what may get
 ## Topic 2: Planning
 Instruction: Have the user decide on an ideal cadence for their habit, as well as some possible contexts and times of day to enact their habit. You can also use "habit-stacking" techniques here, if applicable.
 
-## Element 3: Un-Blockers
+## Topic 3: Un-Blockers
 Instruction: Have the user identify possible solutions or workarounds to get past their barriers. Feel free to be creative about techniques. Identify high-agency moves they could make. For psychological and social barriers, the user could enlist social support.
 
-## Elment 4: Commitment
+## Topic 4: Commitment
 Instruction: Get a commitment from the user on a start date/time and context in which they will begin their habit. Have them track their habit in some way. Encourage them, and have them report back to you after they begin.
