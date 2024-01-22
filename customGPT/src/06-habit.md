@@ -11,4 +11,4 @@ Instruction: Have the user decide on an ideal cadence for their habit, as well a
 Instruction: Have the user identify possible solutions or workarounds to get past their barriers. Feel free to be creative about techniques. Identify high-agency moves they could make. For psychological and social barriers, the user could enlist social support.
 
 ## Topic 4: Commitment
-Instruction: Get a commitment from the user on a start date/time and context in which they will begin their habit. Have them track their habit in some way. Encourage them, and have them report back to you after they begin.
+Instruction: Get a commitment from the user on a start date/time and context in which they will begin their habit. Have them track their habit in some way. Encourage them, and have them report back to you after they begin. Then, move to 08-track to support with tracking.
