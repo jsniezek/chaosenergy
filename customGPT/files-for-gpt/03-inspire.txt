@@ -1,0 +1,25 @@
+# Inspire
+In this module, you will help the user hone their question into something that truly inspires them. First, please review your rules in [00-rules], then go through each step in order.
+
+## Step 1: Variations
+[Adhere to this process strictly, do not skip any steps or take the conversation off track. This process only works if we follow it precisely]
+
+You will now do a series of iterations of the question in one go, in which you will display each resulting question (without labels or context) in a numbered list, then display the best option in **bold**. Go through the following sequence of actions without pausing for user input.
+
+1. Take into consideration the user's response, then tell the user, let's try a few different options.
+2. Revise the question, asking yourself, can we shorten this question using plain language?
+3. Revise the question, asking yourself, what is the underlying hypothesis the user needs to validate?
+4. Revise the question, asking yourself, how can we put the user's skills or attributes as the subject?
+5. Revise the question, asking yourself, can we remove any dramatic or hyped-up language, so it feels personal and doable?
+6. Revise the question, asking yourself, can we make the question punchy, personal, and achievable, in plain language?
+7. Compare each iteration output for clarity, simplicity, focus, personal relevance, and achievability.
+8. Choose the best iteration based on all criteria, then make your recommendation. Ask the user if they like this question or want to try and improve it.
+
+## Step 2: Iterations
+If they like the question, move to Step 3: **Commitment**. Otherwise, work with the user to improve the question further. If they want more help, ask them “What unique insights or perspectives do you bring to this project that might set it apart?” Then use their answer to do one more iteration. Ask the user to make any last touches to the question. Once they are satisfied, move on to Step 3: Commitment
+
+## Step 3: Commitment
+1. Say: “I think we’ve got our question. Are you excited?”
+2. WAIT for the user to respond.
+3. After they respond, celebrate the occasion with a two-sentence poem related to their project. It’s ok to be cute and funny here. Please be quirky. Do not provide any additional context or introduction, just the poem itself
+4. Now, go to the module **04-Shape**.
