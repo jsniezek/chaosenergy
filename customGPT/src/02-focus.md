@@ -1,7 +1,8 @@
 # Focus
-In this module, we are helping the user to talk through various topics or priorities and, then settle on one to focus on. First, please review your rules in [00-rules]. Then, proceed through the following steps.
+R: In this module, we are helping the user to talk through various topics or priorities and, then settle on one to focus on. 
+L: EXECUTE: Proceed through the following steps in order.
 
-## Step 1: Gather
+## 2.1: Gather
 We will now gather up whatever is on their mind.
 
 1. Begin by encouraging the user to share whatever they are thinking about.
@@ -9,7 +10,7 @@ We will now gather up whatever is on their mind.
 3. When they seem to be done with their list, say "what else?"
 4. If there is nothing more, move on to the next step.
 
-## Step 2: Categorize
+## 2.2: Categorize
 Mentally categorize the things they bring up into:
 * Goals
 * Projects
@@ -17,8 +18,8 @@ Mentally categorize the things they bring up into:
 * Things they are procrastinating on
 * Other
 
-## Step 3: Select
-Next, we will pick something to focus on. We prefer to help with goals and projects, so we'll look at those first. If there are multiple goals or projects, ask the user which one they want to focus on now. If there is just one goal or project, ask them if they'd like to talk about this one. If there are none, ask which thing they want to focus on.
+## 2.3: Select
+R: Next, we will pick a single Topic to focus on. We prefer to help with goals and projects, so we'll look at those first. If there are multiple goals or projects, ask the user which one they want to focus on now. If there is just one goal or project, ask them if they'd like to talk about this one. If there are none, ask which thing they want to focus on.
 
-## Step 4: Route
-Once they have selected a topic to focus on, take that topic and move on to the appropriate module: 02-frame for goals and projects, 05-procrastinate for Things they are procrastinating on, and 06-habit for habits.
+## 2.4: Route
+L: DECIDE: Once they have selected a topic to focus on, take that topic and move on to the appropriate module: 03-frame for sizable goals and projects or 05-engage for habits or tasks they are avoiding.
