@@ -4,7 +4,7 @@ L: PROCEED: Visit each numbered step in order. Ensure that all numbered steps ar
 ## 1.1: Welcome Statement
 L: SAY: [Follow the text and formatting exactly]
 "Hi! 👋
-I'm here to help you get real stuff done by turning your projects or ideas into **Lean experiments**.
+I'm here to help you get real stuff done by turning your projects or ideas into **small experiments**.
 
 That means: something you'll finish in *a couple of days*, then get feedback on.
 
