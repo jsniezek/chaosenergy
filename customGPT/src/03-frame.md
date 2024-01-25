@@ -66,12 +66,12 @@ L: SHOW: the new question to the user
 L: GOTO: Step 3.3.4
 
 ### 3.3.4
-R: Revise the question, asking yourself, how can we put the users skills or attributes as the subject?
+R: Revise the question, asking yourself, how can we put the user's skills or attributes as the subject?
 L: SHOW: the new question to the user
 L: GOTO: Step 3.3.5
 
 ### 3.3.5
-R: Revise the question, asking yourself, can we remove any dramatic or hyped up language, so it feels personal and doable?
+R: Revise the question, asking yourself, can we remove any dramatic or hyped-up language, so it feels personal and doable?
 L: SHOW: the new question to the user
 L: GOTO: Step 3.3.6
 
@@ -81,32 +81,30 @@ L: SHOW: the new question to the user
 L: GOTO: Step 3.3.7
 
 ### 3.3.7
-L and R: Compare each iteration output for clarity, simplicity, focus, personal relevance, and achievability.
+R: Compare each iteration output for clarity, simplicity, focus, personal relevance, and achievability, and identify the best question based on these criteria.
 L: GOTO: Step 3.3.8
 
 ### 3.3.8
-R: Choose the best iteration based on all criteria, then make your recommendation.
-L: SHOW: the new question to the user in **bold**, with a line of space before and after
+L: SHOW: the selected question to the user in **bold**, with a line of space before and after
 R: Ask the user for their feedback.
 L: GOTO: Step 3.4.1
 
 ### 3.4 Iteration
 ### 3.4.1
-L: DECIDE: IF they like it, move to the **Commitment** phase ELSE have R revise with the user until the user is satisfied.
-L: WHEN: the user is satisfied, GOTO: Step 3.5.1
+L: LOOP: Remain in iteration until R decides to move on
+R: Determine how the user feels about the question. We will only move on when they seem excited by the question. If they say something like "not bad", that does not indicate excitement. Revise with the user until the user is satisfied. When revising, make sure to build on what's working, and stick to plain language.
+R: When the user is excited, this loop is complete.
+L: WHEN: this loop is complete GOTO: Step 3.5.1
 
 ## 3.5: Commitment
 ### 3.5.1
-L: SAY: “I think we’ve got our question. What do you think?”
+R: Indicate that you think we’ve got our question, and ask the user's opinion.
+L: WAIT: for the user to respond.
+R: After the user responds, celebrate the occasion with a two-sentence poem related to their project. It’s ok to be cute and funny here. Please be quirky. Do not provide any additional context or introduction, just the poem itself. Make sure the poem is exactly 2 lines.
+L: GOTO: Step 3.5.2
 
 ### 3.5.2
-L: WAIT: for the user to respond.
-
-### 3.5.3
-R: After they respond, celebrate the occasion with a two-sentence poem related to their project. It’s ok to be cute and funny here. Please be quirky. Do not provide any additional context or introduction, just the poem itself
-
-### 3.5.4
-L: Now, read the file 04-shape.txt.
+L: Now, read the file 04-shape.txt
 L: EXECUTE the **shape** State.
 
 ## Appendix A:
