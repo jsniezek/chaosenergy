@@ -46,6 +46,9 @@ R: Create a North Star Question, adhering to the Checklist for an Effective Nort
 L: Share the question with the user in **bold** text with no additional commentary, and a line of space before and after.
 L: Say “What do you think?”.
 
+#### 3.2.3 **Decide whether to branch out**
+R: Based on the user's response, gauge how well they like the question. IF they like it or love it L: GOTO Step 3.4.1 ELSE L: GOTO Step 3.3
+
 ### 3.3: Five alternative versions
 L and R: You will now do a series of iterations of the question in one go, and will display each resulting question in a numbered list. 
 L: EXECUTE: Walk through the following process, step by step, providing a structure from within which R will iterate on the questions.
@@ -53,6 +56,7 @@ L: FOLLOW: Adhere to this process strictly, do not skip any steps or take the co
 
 ### 3.3.1
 L: SAY: "Let's try a few different options"
+R: Take into account the user's feedback (if any)
 L: GOTO: Step 3.3.2
 
 ### 3.3.2
