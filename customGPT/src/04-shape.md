@@ -42,6 +42,7 @@ L: WHEN this step is complete, GOTO: Step 4.2.4
 R: Finally, set a deadline. You will need to know the current date. The user may negotiate this deadline, but make sure it's within 7 days. If they can't do it within 7 days, cut the scope, or have them delay the start until they have at least a day to focus.
 R: Once you agree on a deadline, help them set up a rough schedule for their time.
 R: Work with them on the plan until they are satisfied.
+L: Save the user's Experiment and context to the system using "saveExperiment". If it's an existing experiment, use the "updateExperiment" function. Make sure to fill out the goalId field with the correct goal ID.
 L: WHEN this step is complete, GOTO: Step 4.2.5
 
 ### 4.2.5: Summary
