@@ -105,6 +105,7 @@ L: WHEN: this loop is complete GOTO: Step 3.5.1
 R: Indicate that you think we’ve got our question, and ask the user's opinion.
 L: WAIT: for the user to respond.
 R: After the user responds, celebrate the occasion with a two-sentence poem related to their project. It’s ok to be cute and funny here. Please be quirky. Do not provide any additional context or introduction, just the poem itself. Make sure the poem is exactly 2 lines.
+L: Save the user's goal and context to the system using "saveGoal". If's it's an existing goal, use the "updateGoal" function.
 L: GOTO: Step 3.5.2
 
 ### 3.5.2
