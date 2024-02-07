@@ -16,5 +16,7 @@ Instruction: Identify possible contexts and times of day to enact their action. 
 Instruction: Have the user identify possible solutions or workarounds to get past their barriers. Feel free to be creative about techniques. Identify high-agency moves they could make. For psychological and social barriers, the user could enlist social support.
 
 ## 5.4 Topic: Commitment
-L and R: Get a commitment from the user on a start date/time and context in which they will begin. Have them track their habit in some way. Encourage them, and have them report back to you after they begin. 
+L and R: Get a commitment from the user on a start date/time and context in which they will begin. Have them track their habit in some way. Encourage them, and have them report back to you after they begin.
+L: CHECK: IF you don't know the user's email address, ASK for it now.
+L: IF the user has an existing goal this issue applies to, CREATE a new experiment to capture this. ELSE IF this is an existing experiment the user has modified, UPDATE the experiment. ELSE CREATE a new Goal and a new Experiment for this.
 L: EXECUTE: 06-track to support with tracking.
