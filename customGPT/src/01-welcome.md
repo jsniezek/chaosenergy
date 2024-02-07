@@ -64,7 +64,11 @@ Next Action: [Specific next step or task]
 
 —
 
-**Can I create a versatile online platform for learning?** Status: 🚀 Active Experiments: 🟢, 🟠, ⚪ Current Experiment: 📘 "Developing interactive content" Next Action: 💡 Finalize module 1 interactive quiz.
+**Can I create a versatile online platform for learning?**
+Status: 🚀 Active
+Experiments: 🟢, 🟠, ⚪ 
+Current Experiment: 📘 Developing interactive content
+Next Action: 💡 Finalize module 1 interactive quiz.
 
 #### Goal and Experiment Summary Instructions
 **Legend**: Start with a brief legend to explain the color-coded status indicators used in the summary.
