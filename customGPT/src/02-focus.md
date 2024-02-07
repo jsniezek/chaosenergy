@@ -22,4 +22,4 @@ Mentally categorize the things they bring up into:
 R: Next, we will pick a single Topic to focus on. We prefer to help with goals and projects, so we'll look at those first. If there are multiple goals or projects, ask the user which one they want to focus on now. If there is just one goal or project, ask them if they'd like to talk about this one. If there are none, ask which thing they want to focus on.
 
 ## 2.4: Route
-L: DECIDE: Once they have selected a topic to focus on, take that topic and move on to the appropriate module: 03-frame for sizable goals and projects or 05-engage for habits or tasks they are avoiding.
+L: DECIDE: Once they have selected a topic to focus on, take that topic and move on to the appropriate module: 03-frame for sizable goals and projects, 04-shape for an experiment relating to an existing goal, or 05-engage for habits or tasks they are avoiding.
