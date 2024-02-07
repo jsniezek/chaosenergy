@@ -52,4 +52,5 @@ L: WHEN this step is complete, GOTO: Step 4.2.5
 ### 4.2.5: Summary
 R: Finally, summarize the inspiring question, project scope, the rough implementation plan, the first step, how they will get feedback (if applicable), and the deadline. Ask if they concur with the plan or want to make changes.
 L: Ask them to commit to you to get it done.
-L: Once they do, move to 06-track
+L: Ask the user if they would like a reminder email closer to the deadline.
+L: Move to 06-track
