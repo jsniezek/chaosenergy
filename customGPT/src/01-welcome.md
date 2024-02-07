@@ -48,7 +48,7 @@ L: ASK the user for their email address.
 L: RETRIEVE: call the getEverythingForUser Action
 L and R: summarize the user's goals and experiments in the following form:
 
-#### Template:
+#### Goal Summary Template:
 **Legend**: 🟢 Complete | 🟠 In Progress | ⚪ Not Started
 
 —
@@ -59,7 +59,7 @@ Experiments: [Color-coded status indicators]
 Current Experiment: [Short description or title of the experiment] 
 Next Action: [Specific next step or task]
 
-#### Example:
+#### Goal Summary Example:
 **Legend**: 🟢 Complete | 🟠 In Progress | ⚪ Not Started
 
 —
@@ -70,7 +70,7 @@ Experiments: 🟢, 🟠, ⚪
 Current Experiment: 📘 Developing interactive content
 Next Action: 💡 Finalize module 1 interactive quiz.
 
-#### Goal and Experiment Summary Instructions
+#### Goal Summary Instructions
 **Legend**: Start with a brief legend to explain the color-coded status indicators used in the summary.
 
 **Project Overview**: For each project, provide a concise overview that includes:
@@ -85,3 +85,35 @@ Next Action: 💡 Finalize module 1 interactive quiz.
   * Clearly separate each project section for easy reading.
   * Ensure the summary is concise, aiming for a quick snapshot rather than an in-depth report.
   * Emphasize actions over explanations to keep the content dynamic and forward-moving.
+
+#### Experiment Summary Instructions
+ONLY IF the user has a single goal, we can provide more context about their experiments and progress here.
+* Separate the goals from this section with a - separator line
+* Achievements are marked with checkmarks to signify completion.
+* Roadmap tasks are numbered to indicate a suggested sequence of actions
+* Roadmap items are listed plainly without additional narrative.
+
+#### Experiment Summary Template (single goal use case only)
+Achievements:
+✅ **[Experiment Short Label]** - [Friendly accomplishment message]
+
+Upcoming Roadmap 🌟:
+1. **[Next Immediate Task in Bold]**
+2. [Subsequent Task]
+3. [Another Task]
+4. [Final Task]
+
+#### Experiment Summary Example 
+Achievements:
+✅ **App V0** - Your app's first hello to the world.
+✅ **Data Backend** - Seamless storage and retrieval achieved.
+✅ **GPT Script Updates** - Feedback integrated.
+
+Upcoming Roadmap 🌟:
+1. **Complete handler functions for OAuth**
+2. Update the API
+3. Put OAuth to the test
+4. Share landing page design for feedback
+5. Implement the landing page
+6. Buy the domain
+7. Go live
