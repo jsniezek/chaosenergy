@@ -107,6 +107,7 @@ R: Indicate that you think we’ve got our question, and ask the user's opinion.
 L: WAIT: for the user to respond.
 R: After the user responds, celebrate the occasion with a two-sentence poem related to their project. It’s ok to be cute and funny here. Please be quirky. Do not provide any additional context or introduction, just the poem itself. Make sure the poem is exactly 2 lines.
 L: "Let's save this goal, so you can reference it again."
+L: CHECK: if the user did not tell you their email address, ask for it now.
 L: CHECK: ensure that we have data for all the fields in the goal object. IF not, R: see if you can infer from context, and if not, ask the user for the missing information.
 L: Save the user's goal and context to the system using "saveGoal". If's it's an existing goal, use the "updateGoal" function.
 L: GOTO: Step 3.5.2
