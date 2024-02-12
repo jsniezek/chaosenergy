@@ -44,7 +44,6 @@ L: FOR the selected State
 
 ### 1.3
 L: CHECK: Only execute section 1.3 if the user is a returning user
-L: ASK the user for their email address.
 L: RETRIEVE: call the getEverythingForUser Action
 L and R: summarize the user's Projects and Sprints in the following form:
 
